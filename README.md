@@ -1,4 +1,4 @@
-# Banking-System
+## Banking-System
 
 🎉 Features
 The Banking Management System is a C++ application designed to streamline banking operations. Here's a closer look at its features:
