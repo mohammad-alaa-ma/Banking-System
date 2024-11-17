@@ -1,4 +1,4 @@
-## Banking-System
+#### Banking-System
 
 🎉 Features
 
@@ -49,7 +49,7 @@ Restricting transaction capabilities for certain users.
 🔹 Description: Securely manage user authentication with login credentials and maintain a history of user activity.
 <br>🔹 Purpose: Tracks and secures access to the system.
 
-##🌍 9. Currency Exchange
+🌍 9. Currency Exchange
 
 🔹 Description: Convert amounts between supported currencies with configurable exchange rates.
 <br>🔹 Purpose: Facilitates cross-border banking transactions seamlessly.
