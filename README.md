@@ -9,8 +9,8 @@ The Banking Management System is a C++ application designed to streamline bankin
 
 **📋 1. Show Client List**
 
-🔹 Description: View a detailed list of all registered clients, including their account information.
-<br>🔹 Purpose: Allows administrators to quickly access an overview of the entire client base.
+- Description: View a detailed list of all registered clients, including their account information.
+<br>- Purpose: Allows administrators to quickly access an overview of the entire client base.
 
 **➕ 2. Add New Client**
 
