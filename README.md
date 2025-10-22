@@ -16,7 +16,6 @@ A comprehensive C++ console-based application designed to manage banking operati
 - [Usage](#usage)
 - [Security Features](#security-features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
